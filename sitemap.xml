@@ -4,14 +4,40 @@
         <loc>https://apicota.github.io/</loc>
     </url>
     <url>
+        <loc>https://apicota.github.io/about/</loc>
+    </url>
+    <url>
         <loc>https://apicota.github.io/blog/</loc>
     </url>
     <url>
-        <loc>https://apicota.github.io/blog/first/</loc>
-        <lastmod>2019-11-27</lastmod>
+        <loc>https://apicota.github.io/blog/apof/</loc>
+        <lastmod>2025-05-27</lastmod>
     </url>
     <url>
-        <loc>https://apicota.github.io/blog/second/</loc>
-        <lastmod>2019-11-28</lastmod>
+        <loc>https://apicota.github.io/blog/appweb/</loc>
+        <lastmod>2025-05-27</lastmod>
+    </url>
+    <url>
+        <loc>https://apicota.github.io/blog/ingles/</loc>
+        <lastmod>2025-05-27</lastmod>
+    </url>
+    <url>
+        <loc>https://apicota.github.io/blog/ipe/</loc>
+        <lastmod>2025-05-28</lastmod>
+    </url>
+    <url>
+        <loc>https://apicota.github.io/blog/redes/</loc>
+        <lastmod>2025-05-28</lastmod>
+    </url>
+    <url>
+        <loc>https://apicota.github.io/blog/som/</loc>
+        <lastmod>2025-05-27</lastmod>
+    </url>
+    <url>
+        <loc>https://apicota.github.io/blog/sostdig/</loc>
+        <lastmod>2025-05-28</lastmod>
+    </url>
+    <url>
+        <loc>https://apicota.github.io/contacto/</loc>
     </url>
 </urlset>
